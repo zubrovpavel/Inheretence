@@ -11,6 +11,7 @@ namespace Inheretence
     {
         static void Main(string[] args)
         {
+            //Test
 
             Functionality functionality = new Functionality();
 
